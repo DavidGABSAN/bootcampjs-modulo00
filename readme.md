@@ -24,7 +24,7 @@ Esto sería un enlace:
 
 ## Imágenes
 
-Así se cargaría una imagen: ![Perro golden](https://es.pngtree.com/freepng/dog-cute-animal-golden-retriever_9040407.html)
+Así se cargaría una imagen: ![Perros golden](./img/perros.jpg)
 
 ## Citas
 
