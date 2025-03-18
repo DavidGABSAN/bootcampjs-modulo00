@@ -1,3 +1,3 @@
 # Laboratorio Modulo 00
 
-Hemos finalizado nuestro laboratorio
+Hemos finalizado nuestro
